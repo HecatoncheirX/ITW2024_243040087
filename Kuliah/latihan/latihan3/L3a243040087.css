@@ -6,3 +6,8 @@ font-family: Comic Sans MS;}
 h3 a {color: green}
 h3 a:hover {color: red;}
 p a:hover {color:white; background-color: blue;}
+.a1 {text-align: center;}
+.a2 {text-align: center;}
+.a3 {text-align: center;}
+.p1 {text-align: center; color: orange;}
+.p2 {text-align: center;}
